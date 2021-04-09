@@ -1,0 +1,3 @@
+Main-Class: app.App
+
+Name:app/App.class
